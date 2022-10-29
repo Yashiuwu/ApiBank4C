@@ -1,0 +1,12 @@
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\thor_\OneDrive\Documents\CUATRIMESTRE 4\APLICACIONES WEB ORIENTADAS A SERVICIOS\PARCIAL 2\ApiBank\ApiBank\Domain\obj\Debug\net5.0\ref\Domain.dll
